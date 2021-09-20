@@ -1,8 +1,8 @@
 import React from "react";
-import FormValidation from "./ex4/App";
+import Redux from "./ex5/Redux";
 
 function App() {
-  return <FormValidation />;
+  return <Redux />;
 }
 
 export default App;
